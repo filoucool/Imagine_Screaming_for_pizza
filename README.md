@@ -1,5 +1,6 @@
 # Imagine_Screaming_For_Pizza
- 
+ <a href='https://coveralls.io/github/filoucool/Imagine_Screaming_for_pizza?branch=main'><img src='https://coveralls.io/repos/github/filoucool/Imagine_Screaming_for_pizza/badge.svg?branch=main' alt='Coverage Status' /></a>
+
 More information to come...
 
 Orders pizza when you scream im hungry.
